@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% seo %}
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/main.css">
+    <!--
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon_io/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon_io/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon_io/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    -->
+  </head>
+  <body id="index">
+    <header>
+      <nav>
+        <ul>
+          <li><a href="/index.html">Schedule</a></li>
+          <li><a href="/videos.html">Videos</a></li>
+          <li><a href="/expectations.html">Expectations</a></li>
+          <li><a href="/project.html">Project</a></li>
+          <li><a href="/office_hours.html">Office Hours</a></li>
+          <li><a href="https://moodle.rose-hulman.edu/course/view.php?id=73636">Class Materials</a></li>
+        </ul>
+      </nav>
+      <img src="images/approved_secondary_logo.png" alt="Rose-Hulman Logo" id="rose-hulman-logo" />
+    </header>
+    <main>
+      <h1>{{ page.title }}</h1>
+      {{ content }}
+    </main>
+    <footer>
+      <!-- We don't have anything for our footer, yet! -->
+    </footer>
+
+    <script type="text/javascript">
+    </script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-176204135-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-176204135-1');
+    </script>
+  </body>
+</html>
