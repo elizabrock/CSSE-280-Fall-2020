@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CSSE-280 Winter 2020 Class Website
+title: CSSE-280 Spring 2020 Class Website
 description: The class website for CSSE-280 due dates, course materials, etc.
 ---
 <section id="main_calendars">

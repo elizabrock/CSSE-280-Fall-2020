@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CSSE-280 Winter 2020 Class Session Videos
+title: CSSE-280 Spring 2020 Class Session Videos
 ---
 Note: Each session's slides and video URLs are clickable links!
 

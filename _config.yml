@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CSSE-280 Winter 2020 Class Website
+title: CSSE-280 Spring 2020 Class Website
 email: brocker@rose-hulman.edu
 description: >- # this means to ignore newlines until "baseurl:"
   The class website for CSSE-280 due dates, course materials, etc.

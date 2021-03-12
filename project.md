@@ -1,7 +1,7 @@
 ---
 layout: default
-title: CSSE-280 Winter 2020 Project
-description: The project for CSSE-280 Winter 2020
+title: CSSE-280 Spring 2020 Project
+description: The project for CSSE-280 Spring 2020
 ---
 
 Note: Each milestone's description is a clickable link!
